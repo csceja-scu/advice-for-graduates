@@ -29,3 +29,8 @@ Helvetica Neue, with display headings on the gradient and body copy on
 frosted-glass cards. All text/background pairings meet WCAG AA contrast.
 
 By Fran · Carlos · Karys · Michelle · Zak
+
+## License
+
+Licensed under the [Apache License 2.0](LICENSE). See the [NOTICE](NOTICE)
+file for attribution details.
