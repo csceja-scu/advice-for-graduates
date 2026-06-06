@@ -1,0 +1,15 @@
+# Empty working dir of extracted source assets (photos are embedded in the HTML)
+media/
+
+# OS cruft
+.DS_Store
+
+# Scratch / QA artifacts
+_*.png
+_*.html
+*.json
+shot-*.png
+qa-*.png
+final-*.png
+v-*.png
+story-*.png
