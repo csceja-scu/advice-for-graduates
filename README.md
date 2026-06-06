@@ -1,12 +1,21 @@
 # Advice for Graduates — Entering the Workforce
 
-An interactive, single-file HTML slide deck created for the Santa Clara
-University Alumni Association (COMM 129: Advanced Public Speaking). A
-peer-to-peer guide for the Class of 2026 covering three topics:
+An interactive, single-file HTML slide deck. A peer-to-peer guide for the
+Class of 2026 covering three topics:
 
 1. **AI as Augmentation, not Replacement** — using AI without losing your voice
 2. **Self Care & Boundaries** — managing work / life balance from day one
 3. **Workplace Communication & Conflict** — navigating difficult conversations
+
+## About this project
+
+This deck was created as a class assignment for **COMM 129: Advanced Public
+Speaking**, taught by **Professor Amy Eriksson** at Santa Clara University.
+
+> **Note:** The framing of this presentation — being delivered on behalf of
+> the "SCU Alumni Association" — is a *theoretical scenario* we developed for
+> the assignment. It is **not** an actual project from, affiliated with, or
+> endorsed by the Santa Clara University Alumni Association.
 
 ## Viewing it
 
